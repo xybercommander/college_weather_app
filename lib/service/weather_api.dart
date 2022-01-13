@@ -1,7 +1,6 @@
 import 'dart:convert';
-
 import 'package:http/http.dart';
-import 'package:weather_app/service/apiKeys.dart';
+import 'package:weather_app/apiKeys.dart';
 
 class WeatherApi {
 

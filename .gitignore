@@ -1,5 +1,3 @@
-/lib/service/apiKeys.dart
-
 # Miscellaneous
 *.class
 *.log
@@ -32,6 +30,8 @@
 .pub-cache/
 .pub/
 /build/
+.env
+apiKeys.dart
 
 # Web related
 lib/generated_plugin_registrant.dart
