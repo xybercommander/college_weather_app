@@ -1,3 +1,5 @@
+/lib/service/apiKeys.dart
+
 # Miscellaneous
 *.class
 *.log
